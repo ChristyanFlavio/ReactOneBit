@@ -5,3 +5,7 @@ Esse foi meu primeiro app em React Native, foi só para teste e aprofundar um po
 
 
 ![Logo](https://imgur.com/0pMkXYF.png)
+
+# Autor
+
+- [@ChristyanFlavio](https://www.github.com/ChristyanFlavio)
