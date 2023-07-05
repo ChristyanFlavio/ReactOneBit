@@ -59,6 +59,7 @@ const styles = StyleSheet.create({
     color: "#e40303",
     height: 50,
     width: "100%",
+    fontWeight:"bold",
   },
   txtResultItemList: {
     fontSize: 16,
