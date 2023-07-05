@@ -1,7 +1,7 @@
 import { View, Text, TouchableOpacity, Share } from "react-native";
 import styles from "./style";
 
-export default function ResultIMC(props: any) {
+export default function ResultIMC(props) {
   const onShare = async () => {
     const result = await Share.share({
       message: "Meu IMC hoje é: " + props.resultIMC,
